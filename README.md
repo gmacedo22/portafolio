@@ -5,7 +5,7 @@ Ingeniero Mecatronico certificado en Data Sciecne con experiencia en extracción
 Genero insights con información, genero modelos predictivos, para apoyar en la toma de decisiones y apoyar en procesos, reduciendo tiempo y automatizando procesos, logrando un significativo ahorro de tiempo.
 
 ## Habilidades tecnológicas
-- Analisis y gestion de datos ** Excel | SQL | Python **
+- Analisis y gestion de datos **Excel | SQL | Python**
 - Machine Learning 
 
 ## Habilidades blandas
@@ -18,7 +18,7 @@ Es sistema de recomendacion de nuevos servicios para usuarios de una compañia t
 **Un modelo de recomendacion de servicios para los usuarios de MegaLine.**
 
 #### Herramientas y tipo de proyecto
-- Python
+- Python 
 - Pandas
 - Seaborn
 - scikit-learn
@@ -50,7 +50,8 @@ Todos los modelos nos dieron un score arriba de 85% exceptuando el de regresion 
 Los usuarios ultras tienden a usar mas de los servicios pero son menos personas que los usuarios normales.
 
 ### Visualizaciones destacadas
-
+![User Box Chart](assets/img_megaline.png)
+![Scatter Chart](assets/img_megaline_users.png)
 
 ## Smart-Retention
 Hay una disminusion de usuarios y el equipo de marketing esta realizando investigación de los posibles causantes, del cual contamos con bastante información.
@@ -90,6 +91,8 @@ Hay una disminusion de usuarios y el equipo de marketing esta realizando investi
 - Los primeros meses es donde se encuentra la mayor taza de bajas en el servicio.
 
 ### Visualizaciones detacadas
+![User Box Chart](assets/img_smart_retention.png)
+
 
 ## Oil Spot Finder
 Una empresa quiere realizar una inversión en la escabacion de pozos petroleros, los cuales cuentan con información de los espacios a escarbar. Quieren saber cuales son las areas las cuales les presentarian mayor numero de ganancia.
@@ -125,3 +128,8 @@ Una empresa quiere realizar una inversión en la escabacion de pozos petroleros,
 - La discrepacia de retorno es muy minima presentando un riesgo y ganancia bajo.
 
 ### Visualizaciones detacadas
+
+![Informacion Region 1](assets/img_geo1.png)
+![Informacion Region 2](assets/img_geo2.png)
+![Informacion Region 3](assets/img_geo3.png)
+![PLot chart](assets/img_geodata.png)
