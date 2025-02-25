@@ -1,21 +1,23 @@
 # Acerca de mí
 
-Ingeniero Mecatronico certificado en Data Sciecne con experiencia en extracción, limpieza y creacion de modelos predictivos mediante machine learning.
+Ingeniero Mecatrónico certificado en Data Science con experiencia en extracción, limpieza y creación de modelos predictivos mediante machine learning.
 
-Genero insights con información, genero modelos predictivos, para apoyar en la toma de decisiones y apoyar en procesos, reduciendo tiempo y automatizando procesos, logrando un significativo ahorro de tiempo.
+Genero insights con información, genero modelos predictivos para apoyar en la toma de decisiones y apoyar en procesos, reduciendo tiempo y automatizando procesos, logrando un significativo ahorro de tiempo.
 
 ## Habilidades tecnológicas
-- Analisis y gestion de datos **Excel | SQL | Python**
+- Análisis y gestión de datos **Excel / SQL / Python**
 - Machine Learning 
 
 ## Habilidades blandas
 
-Analisis de datos | Resolución de problemas | Comunicación efectiva | Organización | Proactivo | Autodidacta | Adaptabilidad | Trabajo en equipo | 
+Análisis de datos | Resolución de problemas | Comunicación efectiva | Organización | Proactivo | Autodidacta | Adaptabilidad | Trabajo en equipo |
+
 # Proyectos seleccionados
 
 ## Mega Line
-Es sistema de recomendacion de nuevos servicios para usuarios de una compañia telefonica, debido a que gran cantidad de usuarios cuentas con paquetes los cuales son heredados y ya tienen mucho tiempo con el mismo servicio. 
-**Un modelo de recomendacion de servicios para los usuarios de MegaLine.**
+Es un sistema de recomendación de nuevos servicios para usuarios de una compañía telefónica, debido a que gran cantidad de usuarios cuentan con paquetes los cuales son heredados y ya tienen mucho tiempo con el mismo servicio.
+**Un modelo de recomendación de servicios para los usuarios de MegaLine.**
+
 
 #### Herramientas y tipo de proyecto
 - Python 
@@ -29,32 +31,33 @@ Es sistema de recomendacion de nuevos servicios para usuarios de una compañia t
 
 ### Preguntas clave
 
-1. ¿Cual es el comportamiento de los nuevos usuarios?
-2. ¿Que diferencia hay entre los usuarios que tienen diferentes servicios?
-3. ¿Como podemos segmentar cada usuario?
+1. ¿Cuál es el comportamiento de los nuevos usuarios?
+2. ¿Qué diferencia hay entre los usuarios que tienen diferentes servicios?
+3. ¿Cómo podemos segmentar cada usuario?
+
+
 
 ### Metodología
 
-- **Preporecesameint de datos** Se limpiaron los datos, eliminamos inconsistencias y verificamos ausencia de duplicados y valores faltantes.
-- **Explorartory Data Analysis (EDA)** Se analizaron caracteristicas demograficas y de uso, identificando patrones en los clientes.
-- **Modelo predictivo** Se entrenaron modelos con regresion logistica, bosque aleatorio y arbol de decisiones.
+- **Preprocesamiento de datos** Se limpiaron los datos, eliminamos inconsistencias y verificamos ausencia de duplicados y valores faltantes.
+- **Exploratory Data Analysis (EDA)** Se analizaron características demográficas y de uso, identificando patrones en los clientes.
+- **Modelo predictivo** Se entrenaron modelos con regresión logística, bosque aleatorio y árbol de decisiones.
 
 ### Conclusiones y recomendaciones
 
 #### Entramiento de los modelos
-Todos los modelos nos dieron un score arriba de 85% exceptuando el de regresion logistica el cual esta en %65.
-
+Todos los modelos nos dieron un score arriba de 85%, exceptuando el de regresión logística, el cual está en 65%.
 
 #### Estrategias recomendadas
 
-Los usuarios ultras tienden a usar mas de los servicios pero son menos personas que los usuarios normales.
+Los usuarios ultras tienden a usar más de los servicios, pero son menos personas que los usuarios normales.
 
 ### Visualizaciones destacadas
 ![User Box Chart](assets/img_megaline.png)
 ![Scatter Chart](assets/img_megaline_users.png)
 
 ## Smart-Retention
-Hay una disminusion de usuarios y el equipo de marketing esta realizando investigación de los posibles causantes, del cual contamos con bastante información.
+Hay una disminución de usuarios y el equipo de marketing está realizando investigación de los posibles causantes, de los cuales contamos con bastante información.
 
 #### Herramientas y tipo de proyecto
 - Python
@@ -67,35 +70,38 @@ Hay una disminusion de usuarios y el equipo de marketing esta realizando investi
 - Modelos de predicción
 
 ### Preguntas clave
-1. ¿Cuales son los comportamiento de los usuarios que mas cancelan el servicio?
-2. ¿Que diferencia a los clientes leales de los que abandonan?
-3. ¿Como se puede segmentar los clientes para diseñar estrategias personalidas?
+1. ¿Cuáles son los comportamientos de los usuarios que más cancelan el servicio?
+2. ¿Qué diferencia a los clientes leales de los que abandonan?
+3. ¿Cómo se puede segmentar los clientes para diseñar estrategias personalizadas?
 
 ### Metodologia
 
-- **Preporecesameint de datos** Se limpiaron los datos, eliminamos inconsistencias y verificamos ausencia de duplicados y valores faltantes.
-- **Unión de bases de datos** Debido a que tenemos varias fuentes de información se juntaran para poder sacar el mayor provecho a los datos.
-- **Explorartory Data Analysis (EDA)** Se analizaron caracteristicas demograficas y de uso, identificando patrones en los clientes.
-- **Modelo predictivo** Se entrenaron modelos como bosque aleatorio, arbol de decisiones, potenciación de gradiante (LightGBM).
+- **Preprocesamiento de datos** Se limpiaron los datos, eliminamos inconsistencias y verificamos ausencia de duplicados y valores faltantes.
+- **Unión de bases de datos** Debido a que tenemos varias fuentes de información, se juntaron para poder sacar el mayor provecho a los datos.
+- **Exploratory Data Analysis (EDA)** Se analizaron características demográficas y de uso, identificando patrones en los clientes.
+- **Modelo predictivo** Se entrenaron modelos como bosque aleatorio, árbol de decisiones, potenciación de gradiente (LightGBM).
 
 ### Conclusiones y recomendaciones
 
 #### Comportamiento de usuarios, Ventas y Marketing
-- Los usuarios los cuales cuentan con el servicio de pago mensual tienen mayor tendencia a abandonar el servicio.
-- Los usuarios que pagan mes con mes tienden a tener mas variacion en los pagos.
+
+- Los usuarios que cuentan con el servicio de pago mensual tienen mayor tendencia a abandonar el servicio.
+- Los usuarios que pagan mes con mes tienden a tener más variación en los pagos.
 
 #### Recomendaciones:
+
 - Dar mayor atención a los usuarios que pagan mensualmente.
-- Checar si los usuarios requieren de los servicios que estan pagando.
+- Checar si los usuarios requieren de los servicios que están pagando.
 - Segregar mejor los paquetes y los costos.
-- Los primeros meses es donde se encuentra la mayor taza de bajas en el servicio.
+- Los primeros meses es donde se encuentra la mayor tasa de bajas en el servicio.
 
 ### Visualizaciones detacadas
+
 ![User Box Chart](assets/img_smart_retention.png)
 
 
 ## Oil Spot Finder
-Una empresa quiere realizar una inversión en la escabacion de pozos petroleros, los cuales cuentan con información de los espacios a escarbar. Quieren saber cuales son las areas las cuales les presentarian mayor numero de ganancia.
+Una empresa quiere realizar una inversión en la excavación de pozos petroleros, los cuales cuentan con información de los espacios a excavar. Quieren saber cuáles son las áreas que les presentarían mayor número de ganancias.
 
 #### Herramientas y tipo de proyecto
 - Python
@@ -108,24 +114,24 @@ Una empresa quiere realizar una inversión en la escabacion de pozos petroleros,
 - Modelos de predicción
 
 ### Preguntas claves
-1. ¿Que area presenta mayor retorno de inversión?
-2. ¿Cuales tierras presentan mayor consistencia en los datos?
-3. ¿Cual es el calculo de riesgo y ganancias para cada región?
+1. ¿Qué área presenta mayor retorno de inversión?
+2. ¿Cuáles tierras presentan mayor consistencia en los datos?
+3. ¿Cuál es el cálculo de riesgo y ganancias para cada región?
 
 ### Metodología
-- **Preporecesameint de datos** Se limpiaron los datos, eliminamos inconsistencias y verificamos ausencia de duplicados y valores faltantes.
-- **Unión de bases de datos** Debido a que tenemos varias fuentes de información se juntaran para poder sacar el mayor provecho a los datos.
-- **Explorartory Data Analysis (EDA)** Se analizaron caracteristicas demograficas y de uso, identificando patrones en los clientes.
-- **Modelo predictivo** Se entrenaro un modelo de regresíon lineal
+- **Preprocesamiento de datos** Se limpiaron los datos, eliminamos inconsistencias y verificamos ausencia de duplicados y valores faltantes.
+- **Unión de bases de datos** Debido a que tenemos varias fuentes de información, se juntaron para poder sacar el mayor provecho a los datos.
+- **Exploratory Data Analysis (EDA)** Se analizaron características demográficas y de uso, identificando patrones en los clientes.
+- **Modelo predictivo**  Se entrenó un modelo de regresión lineal.
 
 ### Conclusiones y recomendaciones
 
 #### Comportamiento de las regiones
 
 #### Recomendaciones:
-- Hay dos regiones las cuales reportan mayor retorno de inversión.
-- El error cuadratico de las regiones no es tan elevado para que presente un riesgo para la inversión.
-- La discrepacia de retorno es muy minima presentando un riesgo y ganancia bajo.
+- Hay dos regiones que reportan mayor retorno de inversión.
+- El error cuadrático de las regiones no es tan elevado para que presente un riesgo para la inversión.
+- La discrepancia de retorno es muy mínima, presentando un riesgo y ganancia bajos.
 
 ### Visualizaciones detacadas
 
