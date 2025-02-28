@@ -159,5 +159,5 @@ Una empresa quiere realizar una inversión en la excavación de pozos petroleros
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/gmacedo22/Oil-Spot-Finder).**
 
 
-**Gracias por visitar mi portafolio sigo trabajando en mas proyectos por si te interesa seguir viendo mi trabajo estaria encantado de que lo visitaras**
-[Github](https://github.com/gmacedo22)
+**Gracias por visitar mi portafolio. Sigo trabajando en nuevos proyectos, así que si te interesa ver más de mi trabajo, estaré encantado de que vuelvas a visitarlo.** 
+[![GitHub](https://img.shields.io/badge/github-%23295F98.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gmacedo22)
