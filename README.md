@@ -12,6 +12,11 @@ Genero insights con información, genero modelos predictivos para apoyar en la t
 
 Análisis de datos | Resolución de problemas | Comunicación efectiva | Organización | Proactivo | Autodidacta | Adaptabilidad | Trabajo en equipo |
 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23295F98.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-macedo-ayon/)
+[![Gmail](https://img.shields.io/badge/Gmail-295F98?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardomacedo22@gmail.com)
+
+
 # Proyectos seleccionados
 
 ## Mega Line
@@ -53,8 +58,13 @@ Todos los modelos nos dieron un score arriba de 85%, exceptuando el de regresió
 Los usuarios ultras tienden a usar más de los servicios, pero son menos personas que los usuarios normales.
 
 ### Visualizaciones destacadas
+1. **Graficas de caja:** Observación uso promedio de los dos tipos de usuarios.
 ![User Box Chart](assets/img_megaline.png)
+2. **Grafica de dispersión** de los usuarios ultra y regular.
 ![Scatter Chart](assets/img_megaline_users.png)
+
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/gmacedo22/Best-Plan-Advisor).**
 
 ## Smart-Retention
 Hay una disminución de usuarios y el equipo de marketing está realizando investigación de los posibles causantes, de los cuales contamos con bastante información.
@@ -97,9 +107,10 @@ Hay una disminución de usuarios y el equipo de marketing está realizando inves
 
 ### Visualizaciones detacadas
 
+1. **Grafica de disperción** De los diferentes modos de pago y su taza de cancelación
 ![User Box Chart](assets/img_smart_retention.png)
 
-
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/gmacedo22/Smart-Retention).**
 ## Oil Spot Finder
 Una empresa quiere realizar una inversión en la excavación de pozos petroleros, los cuales cuentan con información de los espacios a excavar. Quieren saber cuáles son las áreas que les presentarían mayor número de ganancias.
 
@@ -134,8 +145,19 @@ Una empresa quiere realizar una inversión en la excavación de pozos petroleros
 - La discrepancia de retorno es muy mínima, presentando un riesgo y ganancia bajos.
 
 ### Visualizaciones detacadas
-
+1. **Histogramas y graficas de cajas** de cantindad de petroleo encontrado en diferentes areas
+**Geo 1**
 ![Informacion Region 1](assets/img_geo1.png)
+**Geo 2**
 ![Informacion Region 2](assets/img_geo2.png)
+**Geo 3**
 ![Informacion Region 3](assets/img_geo3.png)
+**Grafica de Barrras** Ganancias posibles por cada tipo de area
 ![PLot chart](assets/img_geodata.png)
+
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/gmacedo22/Oil-Spot-Finder).**
+
+
+**Gracias por visitar mi portafolio sigo trabajando en mas proyectos por si te interesa seguir viendo mi trabajo estaria encantado de que lo visitaras**
+[Github](https://github.com/gmacedo22)
